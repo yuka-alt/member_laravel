@@ -1,0 +1,8 @@
+.indextable{
+    width: 300px;
+    table-layout: fixed;
+}
+
+.btn {
+    background-color: brown;
+}

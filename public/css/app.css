@@ -1,0 +1,46 @@
+.indextable{
+    width: 100%;
+    border: 1px solid #333;
+    text-align: center;
+}
+
+.indextable th,
+.indextable td{
+    border: 1px solid #333;
+}
+
+.indexbtn{
+    text-align: right;
+    margin-right: 5px;
+}
+
+.title {
+    text-align: center;
+    padding-top: 30px;
+    margin: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+.text {
+    width: 50%;
+    height: 40px;
+    align-items: center;
+    padding: 20px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+    
+}
+
+.btn {
+    background-color: #dcdcdc;
+    width: 45%;
+    height: 50px;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+}
